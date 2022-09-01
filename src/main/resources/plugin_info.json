@@ -1,11 +1,11 @@
 {
-  "name": "ExamplePlugin",
-  "version": "${version}",
-  "description": "Example implementation of a plugin for Lambda.",
-  "url": "https://github.com/lambda-client/ExamplePlugin",
-  "authors": [ "me", "you" ],
-  "main_class": "com.lambda.ExamplePlugin",
+  "name": "AutoDupe",
+  "version": "1.6",
+  "description": "RomWare Autodupe",
+  "url": "https://github.com/romtec123/2b2t_autodupe",
+  "authors": [ "romtec#6969"],
+  "main_class": "DoopMain",
   "min_api_version": "3.2",
-  "mixins": [ "mixins.ExamplePlugin.json" ],
+  "mixins": [],
   "required_plugins": []
 }
